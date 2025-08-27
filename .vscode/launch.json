@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jmac/Desktop/Programming/C++/Basics/1_Conditionals",
+      "program": "/Users/jmac/Desktop/Programming/C++/Basics/1_Conditionals/build/Debug/outDebug"
+    }
+  ]
+}
